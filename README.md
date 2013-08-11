@@ -2,6 +2,7 @@ sshLoginScript
 ==============
 
 script that takes an input file and performs multiple login actions as defined in input file.
+This script generates an expect script and run it. So make usre expect is installed.
 
 Input File
 ==========
